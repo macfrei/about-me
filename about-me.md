@@ -7,3 +7,5 @@ I am web developer!
 - Git
 - GitHub
 - HTML
+
+## BREAKING CHANGES
